@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Sprint 3.sln"
+    "dotnet.defaultSolution": "Sprint3_IT201.sln"
 }
